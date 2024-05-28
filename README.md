@@ -1,1 +1,1 @@
-# SECOM 2014 - Semana da Computação
+# SECOM 2024 - Semana da Computação
